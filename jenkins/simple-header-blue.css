@@ -1,1 +1,4 @@
-.page-header { background-color: #0172ba; }
+#page-header,
+.page-header {
+  background-color: #0172ba;
+}
